@@ -39,11 +39,6 @@ Estudante de desenvolvimento, com foco em projetos full stack — do front-end a
 - 🎬 [Catálogo de Filmes](https://github.com/thbbsa/CatalogosFilmes) — catálogo de filmes com jQuery e API do TMDB
 - 🌿 [Site de Plantas](https://github.com/thbbsa/Site-De-Plantas) — site estático em HTML/CSS
 
-## 📊 Estatísticas
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=thbbsa&show_icons=true&theme=default)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=thbbsa&layout=compact)
-
 ## 📫 Contato
 
 - 📧 Email: thbbsa.oliveira@gmail.com
